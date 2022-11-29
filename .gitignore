@@ -401,7 +401,7 @@ Footer
 Footer navigation
 Term
 
-*cfg
-Tokens.py
 .idea
 .lib/
+pyvenv.cfg
+Tokens.py
